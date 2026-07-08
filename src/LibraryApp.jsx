@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 import { BookOpen, Users, ArrowLeftRight, AlertTriangle, Plus, Trash2, Search } from "lucide-react";
 
-const API = "https://library-management-backend-e431.onrender.com";
+const API = "https://library-management-backend-e431.onrender.com/api";
 
 const COLORS = {
   bg: "#0B0E14",
