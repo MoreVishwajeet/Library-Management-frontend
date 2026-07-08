@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 import { BookOpen, Users, ArrowLeftRight, AlertTriangle, Plus, Trash2, Search } from "lucide-react";
 
-const API = "http://localhost:4000/api";
+const API = "https://api.render.com/deploy/srv-d93blr0js32c739gp9j0?key=ebDcZjQnP7g";
 
 const COLORS = {
   bg: "#0B0E14",
